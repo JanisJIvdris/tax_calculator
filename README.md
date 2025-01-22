@@ -45,7 +45,7 @@ This Ruby-based project calculates taxes for **goods**, **digital services**, an
 
 1. **Clone the Repository:**
 
-   git clone <repository_url>
+   git clone https://github.com/JanisJIvdris/tax_calculator.git
    cd tax_calculator
 
 2. **Install Dependencies:**

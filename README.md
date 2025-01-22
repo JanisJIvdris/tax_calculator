@@ -45,18 +45,19 @@ This Ruby-based project calculates taxes for **goods**, **digital services**, an
 
 1. **Clone the Repository:**
 
-   git clone https://github.com/JanisJIvdris/tax_calculator.git\
+   git clone https://github.com/JanisJIvdris/tax_calculator.git
+   
    cd tax_calculator
 
-2. **Install Dependencies:**
+3. **Install Dependencies:**
 
    bundle install
 
-3. **Run Tests:**
+4. **Run Tests:**
 
    rspec
 
-4. **Demonstration:**
+5. **Demonstration:**
    Run the main.rb script to see hardcoded transactions and their VAT calculations:
 
    ruby main.rb
